@@ -1,4 +1,19 @@
 
+Podcast - ames Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman
+https://www.youtube.com/watch?v=IT__Nrr3PNI&t=152s&ab_channel=LexFridman
+
+Whats New in Spring Boot 2 4
+https://www.youtube.com/watch?v=lgyO9C9zdrg&ab_channel=SpringDeveloper
+
+
+Implementing Microservices Security Patterns and Protocols with Spring Security
+https://www.youtube.com/watch?v=JnYIsvJY7gM&ab_channel=SpringDeveloper
+
+
+Spring Security Patterns
+https://www.youtube.com/watch?v=xEnvAAhMGu4&ab_channel=SpringDeveloper
+
+
 Curso Java Completo
 https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL
 
@@ -47,9 +62,12 @@ https://www.youtube.com/c/edurekaIN/playlists
 Password
 https://www.youtube.com/user/PasswordTechSecurity/playlists
 
+SpringDeveloper
+https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA
+
 **fim***************************************************canais-educativos***********************************************************
 
-**inicio***************************************************linguagem-c**************************************************************
+**inicio***************************************************linguagem-c_e_c++**************************************************************
 
 CURSO DE C
 https://www.youtube.com/watch?v=5RhWr9wdFYI&list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P&ab_channel=GabrielSkrilatt
@@ -57,7 +75,7 @@ https://www.youtube.com/watch?v=5RhWr9wdFYI&list=PLrqNiweLEMonijPwsHckWX7fVbgT2j
 CURSO DE C++
 https://www.youtube.com/watch?v=nUQKr-ey86Y&list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40&ab_channel=CFBCursos
 
-**fim***************************************************linguagem-c**************************************************************
+**fim*******************************************************linguagem-c_e_c++**************************************************************
 
 
 **inicio***************************************************segurança**************************************************************
@@ -74,4 +92,21 @@ https://www.youtube.com/watch?v=hrjdAv-aHCY&ab_channel=CarlosVieira
 Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours | Ethical Hacking Tutorial | Edureka
 https://www.youtube.com/watch?v=dz7Ntp7KQGA&ab_channel=edureka%21
 
+25/07/2021
+https://www.youtube.com/watch?v=egqSNqNISz0&ab_channel=HackerSploit
+
+
+
 **fim***************************************************segurança*******************************************************************
+
+
+**inicio************************************************Devops**************************************************************
+
+25/07/2021 - DevOps Engineering Course for Beginners
+https://www.youtube.com/watch?v=j5Zsa_eOXeY&ab_channel=freeCodeCamp.org
+
+
+25/07/2021 - Microservices, Docker, Kubernetes, Full Stack & Cloud | Java Spring Architecture & Patterns
+https://www.youtube.com/watch?v=ysoC8S96pZU&list=PLBBog2r6uMCResrR48HziFtNx4-BDOmU0&ab_channel=in28minutesCloud%2CDevOpsandMicroservices
+
+**fim***************************************************Devops*******************************************************************
