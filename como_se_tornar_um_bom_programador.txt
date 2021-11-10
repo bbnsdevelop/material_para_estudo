@@ -62,11 +62,20 @@ https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLcz
 16 - CRUD Angular + Spring
 https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner
 
+16.1 - NGRX com Angular - Actions parametrizadas
+https://www.youtube.com/watch?v=By2-pbESQ_w&list=PLI_Z0xfLZHL1zbFnVZo2B0-EfrXa9XNsZ&ab_channel=HypeITBrasil
+
+16.2 - Microfrontends con Module Federation - Angular Montevideo Enero 2021
+https://www.youtube.com/watch?v=9rcEbHk2LjI&ab_channel=AngularMVD
+
 17 - GIT e GITHUB
 https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis
 
 18 - CURSO DE DOCKER COMPLETO 
 https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips
+
+19 - Mockito 3 - Introduction to Unit Testing
+https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani
 
 **************************************Leia*****************************************
 https://www.caelum.com.br/apostilas
