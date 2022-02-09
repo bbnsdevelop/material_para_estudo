@@ -1,0 +1,8 @@
+# Data Structures and Algorithms in Java | Free course | Animations and Implementations
+https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&ab_channel=DineshVaryani
+
+# JUnit 5 - Introduction to Unit Testing
+https://www.youtube.com/watch?v=ZjZ20BgCL0o&list=PL6Zs6LgrJj3tE9xbgcz16sNbscYkrtce7&ab_channel=DineshVaryani
+
+# Mockito 3 - Introduction to Unit Testing
+https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani
