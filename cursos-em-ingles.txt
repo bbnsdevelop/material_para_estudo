@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=ZjZ20BgCL0o&list=PL6Zs6LgrJj3tE9xbgcz16sNbscYkrt
 
 # Mockito 3 - Introduction to Unit Testing
 https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani
+
+
+# Java Spring Boot PDF Generator Tutorial
+https://www.youtube.com/watch?v=S7udzd3xjGQ

@@ -1,0 +1,15 @@
+
+# PYTHON PARA HACKERS - CRIANDO FERRAMENTA PARA PENTEST / BUG BOUNTY
+https://www.youtube.com/watch?v=Y3NpWdxrK0Y&t=575s&ab_channel=FORMMINGHACKERS
+
+# Criando um Ransomware | Python2
+https://www.youtube.com/watch?v=ANNF1PFcSrw
+
+
+# Linux for Hackers // EP 1 (FREE Linux course for beginners)
+https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&ab_channel=NetworkChuck
+
+# Como Transformar Arquivo Python em Executável - [Arquivo Executável]
+https://www.youtube.com/watch?v=cGSerUmK0CE&ab_channel=HashtagPrograma%C3%A7%C3%A3o
+
+
