@@ -23,6 +23,12 @@ https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-a
 5 - Curso MySQL 
 https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
 
+5.1 - Curso de Banco de Dados MySQL
+https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&ab_channel=CursoemV%C3%ADdeo
+
+5.2 - Oracle Database - Curso completo do zero ao avançado
+https://www.youtube.com/watch?v=_NzJpnERaqA&list=PLJZRlbWeQvwI8nRzviH5ckXwYudrw2T56&ab_channel=ZorddieBr
+
 6 - Spring Boot Essentials
 https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1
 
