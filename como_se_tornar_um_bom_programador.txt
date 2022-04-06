@@ -5,6 +5,9 @@ Estudos para ser um bom programador
 1 - Introdução a Algoritmos - Curso de Algoritmos
 https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
 
+1.1 - Lógica de programação Virado no Jiraya - Introdução ao curso
+https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo
+
 2 - Universidade XTI - JAVA 
 https://www.youtube.com/watch?v=NZDzuve7kho&list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr
 
