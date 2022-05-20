@@ -2,10 +2,16 @@
 
 Estudos para ser um bom programador 
 
-1 - Introdução a Algoritmos - Curso de Algoritmos
+1 - Lógica Proposicional
+https://www.youtube.com/playlist?list=PL4OAe-tL47saHhA8ywUFm-Trjk06ocCny
+
+1.2 - Lógica do Zurubabel
+https://www.youtube.com/playlist?list=PL4OAe-tL47sYg-JcXO41Q801w-xfKDuIY
+
+1.3 - Introdução a Algoritmos - Curso de Algoritmos
 https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
 
-1.1 - Lógica de programação Virado no Jiraya - Introdução ao curso
+1.4 - Lógica de programação Virado no Jiraya - Introdução ao curso
 https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo
 
 2 - Universidade XTI - JAVA 
