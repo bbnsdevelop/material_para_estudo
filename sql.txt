@@ -1,0 +1,32 @@
+SELECT DO PÉSSIMO AO PERFORMÁTICO! ESSE É PRA VC
+https://www.youtube.com/watch?v=qVxfiD7RD6k&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+
+UTILIZANDO EXPRESSÕES REGULARES NO SELECT
+https://www.youtube.com/watch?v=KqFrtdHoY1Q&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+
+Select com 6 vezes mais performance SEM MEXER EM ÍNDICES
+https://www.youtube.com/watch?v=HY3HBS36ed4&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+
+Como sei qual é a hora de EXCLUIR um índice?
+https://www.youtube.com/watch?v=E4qI2N3dc9Y&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+
+SELECT DO PÉSSIMO AO PERFORMÁTICO! ESSE É PRA VC
+https://www.youtube.com/watch?v=qVxfiD7RD6k&t=854s&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+Como extrair RUA, NUMERO e CEP de um campo ÚNICO de endereço (RegEx)
+https://www.youtube.com/watch?v=QwVu9itnUMo&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+
+MOVIMENTAÇÃO DE ESTOQUE - 3 SOLUÇÕES NO FB 2.5 COM COMPARATIVO DE PERFORMANCE
+https://www.youtube.com/watch?v=GrIhsbBLs2E&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+
+FUNÇÕES DE AGREGAÇÃO SEM USAR GROUP BY
+https://www.youtube.com/watch?v=0HSOacdgvds&ab_channel=MQFS-MeuqueridoFirebirdSQL
+
+
+

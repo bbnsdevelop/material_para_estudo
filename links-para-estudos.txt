@@ -96,6 +96,17 @@ https://www.youtube.com/watch?v=dz7Ntp7KQGA&ab_channel=edureka%21
 https://www.youtube.com/watch?v=egqSNqNISz0&ab_channel=HackerSploit
 
 
+28/05/2022
+Intrusion Detection With Snort
+https://www.youtube.com/watch?v=Gh0sweT-G30&ab_channel=HackerSploit
+
+Hacking CCTV and IP cameras: Are you safe?
+https://www.youtube.com/watch?v=ZGCScbV7vSA&ab_channel=DavidBombal
+
+
+Integrating Suricata With Wazuh For Log Processing
+https://www.youtube.com/watch?v=NB_u9m-MMcY&ab_channel=HackerSploit
+
 
 **fim***************************************************segurança*******************************************************************
 
