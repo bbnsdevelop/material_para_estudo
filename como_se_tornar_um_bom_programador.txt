@@ -20,17 +20,20 @@ https://www.youtube.com/watch?v=epLXNg4wb6s&list=PLWW8e8W-7y8ItzYGR1uaq1SVkdZr_n
 1.6 - Estrutura de Dados e Algoritmos com Java
 https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi&index=1&ab_channel=LoianeGroner
 
-1.7 - Lógica de programação Virado no Jiraya - Introdução ao curso
-https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo
+1.7 - Estruturas de Dados com Java
+https://www.youtube.com/watch?v=8zVdz6TyV_c&list=PLTLAlheiUm5FRR5BNn4iBFwzYHiNq2Iv2&ab_channel=2Guarinos
 
-2 - Estrutura de Dados e Algoritmos com Java
-https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi&index=1&ab_channel=LoianeGroner
+2 - Lógica de programação Virado no Jiraya - Introdução ao curso
+https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo
 
 3 - Curso Java Completo
 https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL
 
 4 - Course OOP Theory
 https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+
+4.1 - Java+Web+POO (Curso prático)
+https://www.youtube.com/watch?v=XziJzKiNq4w&list=PLTLAlheiUm5F5e50HzioMH49OaGRLdO3m&ab_channel=2Guarinos
 
 5 - Curso MySQL 
 https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
@@ -106,6 +109,13 @@ https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyr
 
 23 - Mockito 3 - Introduction to Unit Testing
 https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani
+
+
+********************************custruindo-um-programa*****************************
+
+https://www.udemy.com/course/angular-pt/
+https://www.udemy.com/course/crie-sua-aplicacao-com-spring-boot-e-angular/
+https://www.udemy.com/course/full-stack-angular9-spring-boot/
 
 
 **************************************Leia*****************************************
