@@ -22,11 +22,7 @@ https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqv
 https://www.youtube.com/watch?v=epLXNg4wb6s&list=PLWW8e8W-7y8ItzYGR1uaq1SVkdZr_ntfI&ab_channel=DesenvolvedoresFullStack
 
 
-1.6 - Estrutura de Dados e Algoritmos com Java
-https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi&index=1&ab_channel=LoianeGroner
-
-
-1.7 - Lógica de programação Virado no Jiraya - Introdução ao curso
+1.6 - Lógica de programação Virado no Jiraya - Introdução ao curso
 https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo
 
 
