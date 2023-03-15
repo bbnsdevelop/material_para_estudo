@@ -1,8 +1,8 @@
 # Material para estudar e ser um bom programador
 este repositório deixarei alguns links de cursos na ordem cronologia, links de pesquisar e materiais para estudos.
 
-Acesse os cursos na ordem cronologica deste link
-[a link](https://github.com/bbnsdevelop/material_para_estudo/blob/master/como_se_tornar_um_bom_programador.txt)
+Acesse os cursos na ordem cronologica deste link:
+[Cursos gratuitos](https://github.com/bbnsdevelop/material_para_estudo/blob/master/como_se_tornar_um_bom_programador.txt)
 
 
 # 1. HackerRank
