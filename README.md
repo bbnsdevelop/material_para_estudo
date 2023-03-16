@@ -1,9 +1,11 @@
 # Material para estudar e ser um bom programador
-este repositório deixarei alguns links de cursos na ordem cronologia, links de pesquisar e materiais para estudos.
 
-Acesse os cursos na ordem cronologica deste link:
-[Cursos gratuitos](https://github.com/bbnsdevelop/material_para_estudo/blob/master/como_se_tornar_um_bom_programador.txt)
 
+A definição de insanidade é fazer a mesma coisa repetidamente e esperar resultados diferentes (Albert Einstein)
+Em minhas palavras, tolo são aqueles que fazem as mesmas coisas (procrastinação) e esperam resultados diferentes
+
+### Acesse os cursos na ordem cronologica nos links abaixo:
+#### Mantenha o foco e estudos 6 meses para terminar todos.
 
 [1 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&ab_channel=B%C3%B3sonTreinamentos)
 <br/>
@@ -100,6 +102,8 @@ Acesse os cursos na ordem cronologica deste link:
 [47 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
 
 
+<br/>
+[Baixe o arquivo](https://github.com/bbnsdevelop/material_para_estudo/blob/master/como_se_tornar_um_bom_programador.txt)
 
 **************************************Leia******************************************
 https://www.caelum.com.br/apostilas
