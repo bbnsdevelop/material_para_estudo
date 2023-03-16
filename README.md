@@ -209,3 +209,18 @@ Você viu muitas plataforma/site para treinar sua lógica de programação e tod
 
 
 Escolha um e comece a práticar hoje mesmo sua lógica de programação para poder tornar-se um ótimo programador no futuro.
+
+# LinkedIn
+
+###### Criando um bom LinkedIN
+
+https://www.youtube.com/watch?v=2IdCJkF4CHA&ab_channel=UmInventorQualquer
+<br/>
+https://www.youtube.com/watch?v=ijQkaT63o9w&ab_channel=MateusSantana-BeDevLab
+<br/>
+https://www.youtube.com/watch?v=h06KIgcPUnU&ab_channel=LucasMontano
+<br/>
+https://www.youtube.com/watch?v=t_P7BIu-bRY&ab_channel=AlexandreSaints
+<br/>
+https://www.youtube.com/watch?v=It1A-tvjpYA&ab_channel=LeonardoTeruel
+
