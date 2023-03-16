@@ -103,7 +103,6 @@ Em minhas palavras, tolo são aqueles que fazem as mesmas coisas (procrastinaç�
 
 
 <br/>
-[Baixe o arquivo](https://github.com/bbnsdevelop/material_para_estudo/blob/master/como_se_tornar_um_bom_programador.txt)
 
 **************************************Leia******************************************
 https://www.caelum.com.br/apostilas
