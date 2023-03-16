@@ -2,7 +2,7 @@
 
 
 A definição de insanidade é fazer a mesma coisa repetidamente e esperar resultados diferentes (Albert Einstein)
-Em minhas palavras, tolo são aqueles que fazem as mesmas coisas (procrastinação) e esperam resultados diferentes
+Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinação) e esperam resultados diferentes
 
 ### Acesse os cursos na ordem cronologica nos links abaixo:
 #### Mantenha o foco nos estudos e termine todos os cursos em 6 meses.
