@@ -6,6 +6,7 @@ Acesse os cursos na ordem cronologica deste link:
 
 
 [1 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&ab_channel=B%C3%B3sonTreinamentos)
+<br/>
 [2 - Curso de Lógica de Programação do Zero para Iniciantes](https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjpozR&index=1&ab_channel=CidaCastello)
 [3 - Curso de algoritmos e lógica de programação](https://www.youtube.com/watch?v=xtEh4BZfj4o&list=PLqJK4Oyr5WSglLpxRZM5cAnmMdgsio-Zy&ab_channel=Programeseufuturo)
 [4 - Introdução a Algoritmos - Curso de Algoritmos](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
