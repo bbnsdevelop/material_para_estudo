@@ -5,7 +5,7 @@ A definição de insanidade é fazer a mesma coisa repetidamente e esperar resul
 Em minhas palavras, tolo são aqueles que fazem as mesmas coisas (procrastinação) e esperam resultados diferentes
 
 ### Acesse os cursos na ordem cronologica nos links abaixo:
-#### Mantenha o foco e estudos 6 meses para terminar todos.
+#### Mantenha o foco nos estudos e termine todos os cursos em 6 meses.
 
 [1 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&ab_channel=B%C3%B3sonTreinamentos)
 <br/>
