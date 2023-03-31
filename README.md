@@ -17,9 +17,9 @@ Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinaç
 <br/>
 [5 - Algoritmos e Lógica de Programação (Básico e Avançado) Passo a Passo - Curso Completo](https://www.youtube.com/watch?v=epLXNg4wb6s&list=PLWW8e8W-7y8ItzYGR1uaq1SVkdZr_ntfI&ab_channel=DesenvolvedoresFullStack)
 <br/>
-[6 - Lógica de programação Virado no Jiraya - Introdução ao curso](https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo)
+[6 - Curso de Java iniciante](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&ab_channel=CursoemV%C3%ADdeo)
 <br/>
-[7 - ALGORITMOS E ESTRUTURAS DE DADOS](https://www.youtube.com/watch?v=IfByqjikMPs&list=PLAGoEvRJAw9BRjbWhDJPDdmnQ1iVXC68r&ab_channel=OctavioVieira)
+[7 - Lógica de programação Virado no Jiraya - Introdução ao curso](https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo)
 <br/>
 [8 - CURSO DE PROGRAMAÇÃO EM JAVA](https://www.youtube.com/watch?v=CObcX4hzP90&list=PLAGoEvRJAw9DyC3uJtSAS8-WLqnAAVX3l&ab_channel=OctavioVieira)
 <br/>
