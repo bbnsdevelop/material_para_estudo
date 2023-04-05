@@ -57,43 +57,47 @@ Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinaç
 <br/>
 [25 - Spring Boot Essentials](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
 <br/>
-[26 - Spring Boot Microservices](https://www.youtube.com/watch?v=vxeMnM15gsI&list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl)
+[26 - Spring Boot](https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D&ab_channel=MichelliBrito)
 <br/>
-[27 - Universidade XTI - XHTML](https://www.youtube.com/watch?v=nIduUA04HFo&list=PLxQNfKs8YwvEGjc7Af7l5cYmePjca3XxS)
+[27 - API RESTFul, Spring Boot e MVC ](https://www.youtube.com/watch?v=YcO-Q6yozmU&list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597&ab_channel=Lucas%C3%82ngelo)
 <br/>
-[28 - HTML5](https://www.youtube.com/watch?v=Ac0S0m4w824&list=PL-u8JWLN6xau0QpzuOTeTI954SsIGEsVA&ab_channel=hcode)
+[28 - Spring Boot Microservices](https://www.youtube.com/watch?v=vxeMnM15gsI&list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl)
 <br/>
-[29 - HTML5 e CSS3 modulo 01](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo)
+[29 - Universidade XTI - XHTML](https://www.youtube.com/watch?v=nIduUA04HFo&list=PLxQNfKs8YwvEGjc7Af7l5cYmePjca3XxS)
 <br/>
-[30 - HTML5 e CSS3 modulo 02](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&ab_channel=CursoemV%C3%ADdeo)
+[30 - HTML5](https://www.youtube.com/watch?v=Ac0S0m4w824&list=PL-u8JWLN6xau0QpzuOTeTI954SsIGEsVA&ab_channel=hcode)
 <br/>
-[31 - HTML5 e CSS3 modulo 03](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&ab_channel=CursoemV%C3%ADdeo)
+[31 - HTML5 e CSS3 modulo 01](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo)
 <br/>
-[32 - Universidade XTI - CSS](https://www.youtube.com/watch?v=uL4bBU7QbE8&list=PLxQNfKs8YwvEW2eRKJriLWvTwfsjSt7Wx)
+[32 - HTML5 e CSS3 modulo 02](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&ab_channel=CursoemV%C3%ADdeo)
 <br/>
-[33 - Universidade XTI - JavaScript](https://www.youtube.com/watch?v=VtJuifD4dSE&list=PLxQNfKs8YwvEk85FbeXxDnFecAntIQdRf)
+[33 - HTML5 e CSS3 modulo 03](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&ab_channel=CursoemV%C3%ADdeo)
 <br/>
-[34 - Universidade XTI - jQuery](https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
+[34 - Universidade XTI - CSS](https://www.youtube.com/watch?v=uL4bBU7QbE8&list=PLxQNfKs8YwvEW2eRKJriLWvTwfsjSt7Wx)
 <br/>
-[35 - TypeScript ](https://www.youtube.com/watch?v=67ki0t_VWc0&list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs)
+[35 - Universidade XTI - JavaScript](https://www.youtube.com/watch?v=VtJuifD4dSE&list=PLxQNfKs8YwvEk85FbeXxDnFecAntIQdRf)
 <br/>
-[36 - Curso Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
+[36 - Universidade XTI - jQuery](https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
 <br/>
-[37 - CRUD Angular + Spring](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
+[37 - TypeScript ](https://www.youtube.com/watch?v=67ki0t_VWc0&list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs)
 <br/>
-[38 - Spring Boot 2 e Angular 10](https://www.youtube.com/watch?v=ZMIE3_k7RJw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&ab_channel=ValdirCezarTutoriais)
+[38 - Curso Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 <br/>
 [39 - CRUD Angular + Spring](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
 <br/>
-[40 - NGRX com Angular - Actions parametrizadas](https://www.youtube.com/watch?v=By2-pbESQ_w&list=PLI_Z0xfLZHL1zbFnVZo2B0-EfrXa9XNsZ&ab_channel=HypeITBrasil)
+[40 - Spring Boot 2 e Angular 10](https://www.youtube.com/watch?v=ZMIE3_k7RJw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&ab_channel=ValdirCezarTutoriais)
 <br/>
-[41 - Microfrontends con Module Federation - Angular Montevideo Enero 2021](https://www.youtube.com/watch?v=9rcEbHk2LjI&ab_channel=AngularMVD)
+[41 - CRUD Angular + Spring](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
 <br/>
-[42 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
+[42 - NGRX com Angular - Actions parametrizadas](https://www.youtube.com/watch?v=By2-pbESQ_w&list=PLI_Z0xfLZHL1zbFnVZo2B0-EfrXa9XNsZ&ab_channel=HypeITBrasil)
 <br/>
-[43 - CURSO DE DOCKER COMPLETO ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips)
+[43 - Microfrontends con Module Federation - Angular Montevideo Enero 2021](https://www.youtube.com/watch?v=9rcEbHk2LjI&ab_channel=AngularMVD)
 <br/>
-[44 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
+[44 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
+<br/>
+[45 - CURSO DE DOCKER COMPLETO ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips)
+<br/>
+[46 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
 
 
 <br/>
