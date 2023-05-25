@@ -29,7 +29,7 @@ Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinaç
 <br/>
 [11 - Curso de introdução à programação Orientada a Objetos](https://www.youtube.com/watch?v=44_GXeVD9bg&list=PLQXVs_1kyj72CHtXUi1e2uLUUXUmeLXcp&ab_channel=LucasBueno)
 <br/>
-[11.1 - SQL](https://www.youtube.com/watch?v=jJxC0i6OtQQ](https://www.youtube.com/watch?v=PXftBr56Tow&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
+[11-1 - SQL](https://www.youtube.com/watch?v=jJxC0i6OtQQ](https://www.youtube.com/watch?v=PXftBr56Tow&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
 <br/>
 [12 - Curso de POO Java](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 <br/>
