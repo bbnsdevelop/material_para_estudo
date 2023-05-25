@@ -11,7 +11,7 @@ Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinaç
 <br/>
 [2 - Curso de Lógica de Programação do Zero para Iniciantes](https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjpozR&index=1&ab_channel=CidaCastello)
 <br/>
-[3 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&ab_channel=B%C3%B3sonTreinamentos)
+[3 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&ab_channel=B%C3%B3sonTreinamentos](https://www.youtube.com/watch?v=UG6dHyNQJko&list=PLylCwvNCtoakuEW0VGSD8XB56jBHbQxF8&ab_channel=tecnologiaemvideo)
 <br/>
 [4 - Curso de Java iniciante](https://www.youtube.com/watch?v=gsy5GqwWqjw&list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)
 <br/>
