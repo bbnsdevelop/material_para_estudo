@@ -61,6 +61,8 @@ Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinaç
 <br/>
 [26 - Spring Boot](https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D&ab_channel=MichelliBrito)
 <br/>
+[26-1 - APIs com Spring Boot](https://www.youtube.com/watch?v=8D5BS1NbHPM&list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb)
+<br/>
 [27 - API RESTFul, Spring Boot e MVC ](https://www.youtube.com/watch?v=YcO-Q6yozmU&list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597&ab_channel=Lucas%C3%82ngelo)
 <br/>
 [28 - Projeto Web API Java Spring Boot](https://www.youtube.com/watch?v=kkkQhR_9Be8&list=PLC8TqXFuvRUQt9fX5qeqjuGxuo_dM9Wvv&ab_channel=MotoCode)
