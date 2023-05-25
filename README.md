@@ -29,6 +29,8 @@ Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinaç
 <br/>
 [11 - Curso de introdução à programação Orientada a Objetos](https://www.youtube.com/watch?v=44_GXeVD9bg&list=PLQXVs_1kyj72CHtXUi1e2uLUUXUmeLXcp&ab_channel=LucasBueno)
 <br/>
+[11.1 - SQL](https://www.youtube.com/watch?v=jJxC0i6OtQQ](https://www.youtube.com/watch?v=PXftBr56Tow&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
+<br/>
 [12 - Curso de POO Java](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 <br/>
 [13 - Curso Java Orientado a Objetos](https://www.youtube.com/watch?v=kO98I2kuXz4&list=PLGPluF_nhP9oNl6vAwapJNqkWA8_CxRuy&ab_channel=AcademiadosDevs)
@@ -99,7 +101,13 @@ Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinaç
 <br/>
 [46 - CURSO DE DOCKER COMPLETO ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips)
 <br/>
-[47 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
+[47 - Amazon Web Services (AWS) ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm))
+<br/>
+[48 - Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/watch?v=UdJYuwnqL3I&list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
+<br/>
+[49 - MongoDB](https://www.youtube.com/watch?v=Cec_R6Nc3wM&list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1&index=4)
+<br/>
+[50 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
 
 
 <br/>
