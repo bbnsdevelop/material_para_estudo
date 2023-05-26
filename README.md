@@ -100,19 +100,21 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 <br/>
 [42 - NGRX com Angular - Actions parametrizadas](https://www.youtube.com/watch?v=By2-pbESQ_w&list=PLI_Z0xfLZHL1zbFnVZo2B0-EfrXa9XNsZ&ab_channel=HypeITBrasil)
 <br/>
-[43 - Microfrontends con Module Federation - Angular Montevideo Enero 2021](https://www.youtube.com/watch?v=9rcEbHk2LjI&ab_channel=AngularMVD)
+[43 - Micro-app em angular usando web components](https://www.youtube.com/watch?v=54wcutNmsd0&ab_channel=Zup)
 <br/>
-[44 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
+[44 - Microfrontends](https://www.youtube.com/watch?v=KZpSghOWOnE&ab_channel=FullCycle)
 <br/>
-[45 - CURSO DE DOCKER COMPLETO ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips)
+[45 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
 <br/>
-[46 - Amazon Web Services (AWS) ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm))
+[46 - CURSO DE DOCKER COMPLETO ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips)
 <br/>
-[47 - Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/watch?v=UdJYuwnqL3I&list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
+[47 - Amazon Web Services (AWS) ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm))
 <br/>
-[48 - MongoDB](https://www.youtube.com/watch?v=Cec_R6Nc3wM&list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1&index=4)
+[48 - Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/watch?v=UdJYuwnqL3I&list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
 <br/>
-[49 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
+[49 - MongoDB](https://www.youtube.com/watch?v=Cec_R6Nc3wM&list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1&index=4)
+<br/>
+[50 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
 
 
 <br/>
