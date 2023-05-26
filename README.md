@@ -18,25 +18,23 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 
 [1 - Algoritmos e Lógica de Programação (Básico e Avançado) Passo a Passo - Curso Completo](https://www.youtube.com/watch?v=epLXNg4wb6s&list=PLWW8e8W-7y8ItzYGR1uaq1SVkdZr_ntfI&ab_channel=DesenvolvedoresFullStack)
 <br/>
-[2 - Curso de Lógica de Programação do Zero para Iniciantes](https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjpozR&index=1&ab_channel=CidaCastello)
+[2 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=UG6dHyNQJko&list=PLylCwvNCtoakuEW0VGSD8XB56jBHbQxF8&ab_channel=tecnologiaemvideo)
 <br/>
-[3 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=UG6dHyNQJko&list=PLylCwvNCtoakuEW0VGSD8XB56jBHbQxF8&ab_channel=tecnologiaemvideo)
+[3 - Curso de Java iniciante](https://www.youtube.com/watch?v=gsy5GqwWqjw&list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)
 <br/>
-[4 - Curso de Java iniciante](https://www.youtube.com/watch?v=gsy5GqwWqjw&list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)
+[4 - Lógica de programação Virado no Jiraya - Introdução ao curso](https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo)
 <br/>
-[5 - Lógica de programação Virado no Jiraya - Introdução ao curso](https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo)
+[5 - CURSO DE PROGRAMAÇÃO EM JAVA](https://www.youtube.com/watch?v=CObcX4hzP90&list=PLAGoEvRJAw9DyC3uJtSAS8-WLqnAAVX3l&ab_channel=OctavioVieira)
 <br/>
-[6 - CURSO DE PROGRAMAÇÃO EM JAVA](https://www.youtube.com/watch?v=CObcX4hzP90&list=PLAGoEvRJAw9DyC3uJtSAS8-WLqnAAVX3l&ab_channel=OctavioVieira)
+[6 - Estruturas de Dados com Java](https://www.youtube.com/watch?v=8zVdz6TyV_c&list=PLTLAlheiUm5FRR5BNn4iBFwzYHiNq2Iv2&ab_channel=2Guarinos)
 <br/>
-[7 - Estruturas de Dados com Java](https://www.youtube.com/watch?v=8zVdz6TyV_c&list=PLTLAlheiUm5FRR5BNn4iBFwzYHiNq2Iv2&ab_channel=2Guarinos)
+[7 - Curso Java Completo](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&ab_channel=DevDojo)
 <br/>
-[8 - Curso Java Completo](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&ab_channel=DevDojo)
+[8 - Curso MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 <br/>
-[9 - Curso MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+[9 - Curso de Banco de Dados MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&ab_channel=CursoemV%C3%ADdeo)
 <br/>
-[10 - Curso de Banco de Dados MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&ab_channel=CursoemV%C3%ADdeo)
-<br/>
-[10-1 - SQL](https://www.youtube.com/watch?v=jJxC0i6OtQQ&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
+[10 - SQL](https://www.youtube.com/watch?v=jJxC0i6OtQQ&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
 <br/>
 [11 - Curso de introdução à programação Orientada a Objetos](https://www.youtube.com/watch?v=44_GXeVD9bg&list=PLQXVs_1kyj72CHtXUi1e2uLUUXUmeLXcp&ab_channel=LucasBueno)
 <br/>
