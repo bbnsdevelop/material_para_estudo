@@ -11,7 +11,7 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 <br/>
 [7 dicas de estudo comprovadas pela ciência](https://www.youtube.com/watch?v=MvNtyic7dMM)
 
-<br/>
+
 # Cursos
 ### Acesse os cursos na ordem cronologica nos links abaixo:
 #### Mantenha o foco nos estudos e termine todos os cursos em 6 meses.
