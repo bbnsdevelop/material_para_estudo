@@ -50,9 +50,9 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 <br/>
 [17 - CURSO DE ENGENHARIA DE REQUISITOS](https://www.youtube.com/watch?v=pN3AMvaM0Rk&list=PLAGoEvRJAw9BSPtgBOme8rgQcLE-0b6kJ&ab_channel=OctavioVieira)
 <br/>
-(18 - Agil - Framework Scrum)[https://www.youtube.com/watch?v=HcZVxsVZ-48&list=PLRj4UESgCLz1uwaFje483eV8hQiBguW-P&ab_channel=minutoagil]
+[18 - Agil - Framework Scrum](https://www.youtube.com/watch?v=HcZVxsVZ-48&list=PLRj4UESgCLz1uwaFje483eV8hQiBguW-P&ab_channel=minutoagil)
 <br/>
-(19 - Jira Software básico)[https://www.youtube.com/watch?v=nMC4kjG8mt0&list=PL7NDvV6PnYODio6jp-dYLXPL8SQHzTJxy&ab_channel=CANALVALOR]
+[19 - Jira Software básico](https://www.youtube.com/watch?v=nMC4kjG8mt0&list=PL7NDvV6PnYODio6jp-dYLXPL8SQHzTJxy&ab_channel=CANALVALOR)
 <br/>
 [20 - CURSO DE DESENVOLVIMENTO WEB EM JAVA](https://www.youtube.com/watch?v=7IzfS4P0XUQ&list=PLAGoEvRJAw9C6vrVH7ASvJyYLpicpgjh8&ab_channel=OctavioVieira)
 <br/>
@@ -80,9 +80,9 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 <br/>
 [32 - Spring Boot Microservices](https://www.youtube.com/watch?v=vxeMnM15gsI&list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl)
 <br/>
-(33 - Curso de HTML e CSS)[https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA&ab_channel=Ot%C3%A1vioMiranda]
+[33 - Curso de HTML e CSS](https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA&ab_channel=Ot%C3%A1vioMiranda)
 <br/>
-(34 - Bootstrap 5)[https://www.youtube.com/watch?v=pW-qbaw3OQw&list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv&ab_channel=DiegoMariano]
+[34 - Bootstrap 5](https://www.youtube.com/watch?v=pW-qbaw3OQw&list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv&ab_channel=DiegoMariano)
 <br/>
 [35 - Universidade XTI - JavaScript](https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
 <br/>
