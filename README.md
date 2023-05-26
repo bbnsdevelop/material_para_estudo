@@ -50,73 +50,69 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 <br/>
 [17 - CURSO DE ENGENHARIA DE REQUISITOS](https://www.youtube.com/watch?v=pN3AMvaM0Rk&list=PLAGoEvRJAw9BSPtgBOme8rgQcLE-0b6kJ&ab_channel=OctavioVieira)
 <br/>
-[18 - CURSO DE DESENVOLVIMENTO WEB EM JAVA](https://www.youtube.com/watch?v=7IzfS4P0XUQ&list=PLAGoEvRJAw9C6vrVH7ASvJyYLpicpgjh8&ab_channel=OctavioVieira)
+(18 - Agil - Framework Scrum)[https://www.youtube.com/watch?v=HcZVxsVZ-48&list=PLRj4UESgCLz1uwaFje483eV8hQiBguW-P&ab_channel=minutoagil]
 <br/>
-[19 - Sistema Pizzaria Java](https://www.youtube.com/watch?v=NBdspQVkSwI&list=PLxNM4ef1Bpxg93agaGJzdZ3WUBUgJ-aFx&ab_channel=PortalHugoCursos)
+(19 - Jira Software básico)[https://www.youtube.com/watch?v=nMC4kjG8mt0&list=PL7NDvV6PnYODio6jp-dYLXPL8SQHzTJxy&ab_channel=CANALVALOR]
 <br/>
-[20 - Java MySQL - Sistema completo para gestão de serviços](https://www.youtube.com/watch?v=eA4WjjkzK3c&list=PLbEOwbQR9lqxsTusvu8wfkUECrmcV81MU&index=2&ab_channel=ProfessorJos%C3%A9deAssis)
+[20 - CURSO DE DESENVOLVIMENTO WEB EM JAVA](https://www.youtube.com/watch?v=7IzfS4P0XUQ&list=PLAGoEvRJAw9C6vrVH7ASvJyYLpicpgjh8&ab_channel=OctavioVieira)
 <br/>
-[21 - Projeto em Java - Barbearia](https://www.youtube.com/watch?v=UtxTG1_AiXk&list=PLJIP7GdByOyuBKB--fIO2DoQaPVXm9lCw&ab_channel=WhileTrue)
+[21 - Sistema Pizzaria Java](https://www.youtube.com/watch?v=NBdspQVkSwI&list=PLxNM4ef1Bpxg93agaGJzdZ3WUBUgJ-aFx&ab_channel=PortalHugoCursos)
 <br/>
-[22 - Sistema para Hotel em Java ](https://www.youtube.com/watch?v=piFYB7XAYKA&list=PLCNFRvVK1LVOftaQtWa2GKjnY3EYxFbfn&ab_channel=DarlanAraujo)
+[22 - Java MySQL - Sistema completo para gestão de serviços](https://www.youtube.com/watch?v=eA4WjjkzK3c&list=PLbEOwbQR9lqxsTusvu8wfkUECrmcV81MU&index=2&ab_channel=ProfessorJos%C3%A9deAssis)
 <br/>
-[23 - Java+Web+POO (Curso prático)](https://www.youtube.com/watch?v=XziJzKiNq4w&list=PLTLAlheiUm5F5e50HzioMH49OaGRLdO3m&ab_channel=2Guarinos)
+[23 - Projeto em Java - Barbearia](https://www.youtube.com/watch?v=UtxTG1_AiXk&list=PLJIP7GdByOyuBKB--fIO2DoQaPVXm9lCw&ab_channel=WhileTrue)
 <br/>
-[24 - Oracle Database - Curso completo do zero ao avançado](https://www.youtube.com/watch?v=_NzJpnERaqA&list=PLJZRlbWeQvwI8nRzviH5ckXwYudrw2T56&ab_channel=ZorddieBr)
+[24 - Sistema para Hotel em Java ](https://www.youtube.com/watch?v=piFYB7XAYKA&list=PLCNFRvVK1LVOftaQtWa2GKjnY3EYxFbfn&ab_channel=DarlanAraujo)
 <br/>
-[25 - Spring Boot Essentials](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
+[25 - Java+Web+POO (Curso prático)](https://www.youtube.com/watch?v=XziJzKiNq4w&list=PLTLAlheiUm5F5e50HzioMH49OaGRLdO3m&ab_channel=2Guarinos)
 <br/>
-[26 - Spring Boot](https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D&ab_channel=MichelliBrito)
+[26 - Oracle Database - Curso completo do zero ao avançado](https://www.youtube.com/watch?v=_NzJpnERaqA&list=PLJZRlbWeQvwI8nRzviH5ckXwYudrw2T56&ab_channel=ZorddieBr)
 <br/>
-[26-1 - APIs com Spring Boot](https://www.youtube.com/watch?v=8D5BS1NbHPM&list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb)
+[27 - Spring Boot Essentials](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
 <br/>
-[27 - API RESTFul, Spring Boot e MVC ](https://www.youtube.com/watch?v=YcO-Q6yozmU&list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597&ab_channel=Lucas%C3%82ngelo)
+[28 - Spring Boot](https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D&ab_channel=MichelliBrito)
 <br/>
-[28 - Projeto Web API Java Spring Boot](https://www.youtube.com/watch?v=kkkQhR_9Be8&list=PLC8TqXFuvRUQt9fX5qeqjuGxuo_dM9Wvv&ab_channel=MotoCode)
+[29 - APIs com Spring Boot](https://www.youtube.com/watch?v=8D5BS1NbHPM&list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb)
 <br/>
-[29 - Spring Boot Microservices](https://www.youtube.com/watch?v=vxeMnM15gsI&list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl)
+[30 - API RESTFul, Spring Boot e MVC ](https://www.youtube.com/watch?v=YcO-Q6yozmU&list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597&ab_channel=Lucas%C3%82ngelo)
 <br/>
-[30 - Universidade XTI - XHTML](https://www.youtube.com/watch?v=nIduUA04HFo&list=PLxQNfKs8YwvEGjc7Af7l5cYmePjca3XxS)
+[31 - Projeto Web API Java Spring Boot](https://www.youtube.com/watch?v=kkkQhR_9Be8&list=PLC8TqXFuvRUQt9fX5qeqjuGxuo_dM9Wvv&ab_channel=MotoCode)
 <br/>
-[31 - HTML5](https://www.youtube.com/watch?v=Ac0S0m4w824&list=PL-u8JWLN6xau0QpzuOTeTI954SsIGEsVA&ab_channel=hcode)
+[32 - Spring Boot Microservices](https://www.youtube.com/watch?v=vxeMnM15gsI&list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl)
 <br/>
-[32 - HTML5 e CSS3 modulo 01](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo)
+(33 - Curso de HTML e CSS)[https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA&ab_channel=Ot%C3%A1vioMiranda]
 <br/>
-[33 - HTML5 e CSS3 modulo 02](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&ab_channel=CursoemV%C3%ADdeo)
+(34 - Bootstrap 5)[https://www.youtube.com/watch?v=pW-qbaw3OQw&list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv&ab_channel=DiegoMariano]
 <br/>
-[34 - HTML5 e CSS3 modulo 03](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&ab_channel=CursoemV%C3%ADdeo)
+[35 - Universidade XTI - JavaScript](https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
 <br/>
-[35 - Universidade XTI - CSS](https://www.youtube.com/watch?v=uL4bBU7QbE8&list=PLxQNfKs8YwvEW2eRKJriLWvTwfsjSt7Wx)
+[36 - Universidade XTI - jQuery](https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
 <br/>
-[36 - Universidade XTI - JavaScript](https://www.youtube.com/watch?v=VtJuifD4dSE&list=PLxQNfKs8YwvEk85FbeXxDnFecAntIQdRf)
+[37 - TypeScript ](https://www.youtube.com/watch?v=67ki0t_VWc0&list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs)
 <br/>
-[37 - Universidade XTI - jQuery](https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
+[38 - Curso Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 <br/>
-[38 - TypeScript ](https://www.youtube.com/watch?v=67ki0t_VWc0&list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs)
+[39 - CRUD Angular + Spring](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
 <br/>
-[39 - Curso Angular](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
+[40 - Spring Boot 2 e Angular 10](https://www.youtube.com/watch?v=ZMIE3_k7RJw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&ab_channel=ValdirCezarTutoriais)
 <br/>
-[40 - CRUD Angular + Spring](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
+[41 - CRUD Angular + Spring](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
 <br/>
-[41 - Spring Boot 2 e Angular 10](https://www.youtube.com/watch?v=ZMIE3_k7RJw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&ab_channel=ValdirCezarTutoriais)
+[42 - NGRX com Angular - Actions parametrizadas](https://www.youtube.com/watch?v=By2-pbESQ_w&list=PLI_Z0xfLZHL1zbFnVZo2B0-EfrXa9XNsZ&ab_channel=HypeITBrasil)
 <br/>
-[42 - CRUD Angular + Spring](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
+[43 - Microfrontends con Module Federation - Angular Montevideo Enero 2021](https://www.youtube.com/watch?v=9rcEbHk2LjI&ab_channel=AngularMVD)
 <br/>
-[43 - NGRX com Angular - Actions parametrizadas](https://www.youtube.com/watch?v=By2-pbESQ_w&list=PLI_Z0xfLZHL1zbFnVZo2B0-EfrXa9XNsZ&ab_channel=HypeITBrasil)
+[44 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
 <br/>
-[44 - Microfrontends con Module Federation - Angular Montevideo Enero 2021](https://www.youtube.com/watch?v=9rcEbHk2LjI&ab_channel=AngularMVD)
+[45 - CURSO DE DOCKER COMPLETO ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips)
 <br/>
-[45 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
+[46 - Amazon Web Services (AWS) ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm))
 <br/>
-[46 - CURSO DE DOCKER COMPLETO ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips)
+[47 - Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/watch?v=UdJYuwnqL3I&list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
 <br/>
-[47 - Amazon Web Services (AWS) ](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_&ab_channel=LINUXtips](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm))
+[48 - MongoDB](https://www.youtube.com/watch?v=Cec_R6Nc3wM&list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1&index=4)
 <br/>
-[48 - Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/watch?v=UdJYuwnqL3I&list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
-<br/>
-[49 - MongoDB](https://www.youtube.com/watch?v=Cec_R6Nc3wM&list=PL4OAe-tL47sZeAX1LXxSZxXtqj1fYGkF1&index=4)
-<br/>
-[50 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
+[49 - Mockito 3 - Introduction to Unit Testing](https://www.youtube.com/watch?v=53fncREn8k0&list=PL6Zs6LgrJj3vy7yWpH9xb3Y0I_pAPrvCU&ab_channel=DineshVaryani)
 
 
 <br/>
