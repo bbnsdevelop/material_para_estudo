@@ -2,8 +2,14 @@
 
 
 A definição de insanidade é fazer a mesma coisa repetidamente e esperar resultados diferentes (Albert Einstein)
-Em minhas palavras, tolos são aqueles que fazem as mesmas coisas (procrastinação) e esperam resultados diferentes
+Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastinação, preguiça, zero foco, etc) e esperam resultados como sucesso, ter uma boa profissão, etc.
 
+#### Antes de começarem os estudos vamos lá para algumas dicas: 
+[COMO ESTUDAR](https://www.youtube.com/watch?v=oQw1Wo1GNp0&ab_channel=bremado)
+[QUAIS SÃO AS MELHORES TÉCNICAS DE ESTUDO?](https://www.youtube.com/watch?v=sXmKaZ-9fWc)
+[7 dicas de estudo comprovadas pela ciência](https://www.youtube.com/watch?v=MvNtyic7dMM)
+
+# Cursos
 ### Acesse os cursos na ordem cronologica nos links abaixo:
 #### Mantenha o foco nos estudos e termine todos os cursos em 6 meses.
 
