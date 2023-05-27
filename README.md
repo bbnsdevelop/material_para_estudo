@@ -5,6 +5,8 @@ A definição de insanidade é fazer a mesma coisa repetidamente e esperar resul
 Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastinação, preguiça, zero foco, etc) e esperam resultados como sucesso, ter uma boa profissão, etc.
 
 #### Antes de começarem os estudos vamos lá para algumas dicas: 
+[Neurocientista: "Essa Simples Estratégia Te Fará Aprender Mais Rápido E Melhor"](https://www.youtube.com/watch?v=hM8eD_NWKz4)
+<br/>
 [COMO ESTUDAR](https://www.youtube.com/watch?v=oQw1Wo1GNp0&ab_channel=bremado)
 <br/>
 [QUAIS SÃO AS MELHORES TÉCNICAS DE ESTUDO?](https://www.youtube.com/watch?v=sXmKaZ-9fWc)
