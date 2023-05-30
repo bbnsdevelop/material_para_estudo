@@ -20,13 +20,13 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 
 [1 - Algoritmos e Lógica de Programação (Básico e Avançado) Passo a Passo - Curso Completo](https://www.youtube.com/watch?v=epLXNg4wb6s&list=PLWW8e8W-7y8ItzYGR1uaq1SVkdZr_ntfI&ab_channel=DesenvolvedoresFullStack)
 <br/>
-[2 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=UG6dHyNQJko&list=PLylCwvNCtoakuEW0VGSD8XB56jBHbQxF8&ab_channel=tecnologiaemvideo)
+[2 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
 <br/>
-[3 - Curso de Java iniciante](https://www.youtube.com/watch?v=gsy5GqwWqjw&list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)
+[3 - Curso de Lógica de Programação](https://www.youtube.com/watch?v=UG6dHyNQJko&list=PLylCwvNCtoakuEW0VGSD8XB56jBHbQxF8&ab_channel=tecnologiaemvideo)
 <br/>
-[4 - Lógica de programação Virado no Jiraya - Introdução ao curso](https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo)
+[4 - Curso de Java iniciante](https://www.youtube.com/watch?v=gsy5GqwWqjw&list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)
 <br/>
-[5 - GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&ab_channel=ProfessorJos%C3%A9deAssis)
+[5 - Lógica de programação Virado no Jiraya - Introdução ao curso](https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ&ab_channel=DevDojo)
 <br/>
 [6 - CURSO DE PROGRAMAÇÃO EM JAVA](https://www.youtube.com/watch?v=CObcX4hzP90&list=PLAGoEvRJAw9DyC3uJtSAS8-WLqnAAVX3l&ab_channel=OctavioVieira)
 <br/>
