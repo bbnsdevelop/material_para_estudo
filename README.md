@@ -16,7 +16,7 @@ Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastina
 
 # Cursos
 ### Acesse os cursos na ordem cronologica nos links abaixo:
-#### Mantenha o foco nos estudos e termine todos os cursos em 6 meses.
+#### Mantenha o foco nos estudos e termine todos os cursos desta lista.
 
 [1 - Algoritmos e Lógica de Programação (Básico e Avançado) Passo a Passo - Curso Completo](https://www.youtube.com/watch?v=epLXNg4wb6s&list=PLWW8e8W-7y8ItzYGR1uaq1SVkdZr_ntfI&ab_channel=DesenvolvedoresFullStack)
 <br/>
