@@ -1,6 +1,5 @@
 # Material para estudar e ser um bom programador
 
-
 A definição de insanidade é fazer a mesma coisa repetidamente e esperar resultados diferentes (Albert Einstein)
 Em outras palavras, idiotas são aqueles que fazem as mesmas coisas (procrastinação, preguiça, zero foco, etc) e esperam resultados como sucesso, ter uma boa profissão, etc.
 
